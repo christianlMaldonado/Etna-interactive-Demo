@@ -1,2 +1,4 @@
 # Etna-interactive-Demo
-Public demo made with css html and bootstrap
+Etna Ineractive Assessment of making a Webpage in HTML, CSS and Bootsrtrap. 
+
+![](EtnaInteractiveGif.gif)
