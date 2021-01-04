@@ -1,0 +1,143 @@
+.img-fluid {
+    width: 2000x;
+    height: 150px;
+}
+
+.a{
+    color:white;
+}
+
+a:link{
+    color:green;
+}
+
+.lead{
+    color:green;
+}
+
+.logoText{
+    color:white;
+    padding:2px;
+    margin: 2px;
+    text-align:left;
+}
+
+.header{
+    text-align:right;
+    background-color: grey;
+}
+
+.topHeaderWord{
+   margin:1px;
+   float:center;
+}
+
+.logo-circle {
+    background: lightgrey;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin: 10px 0px;
+    padding:30px 10px;
+  }
+
+.navbar-nav{
+ text-align:right;
+ float: right;
+
+}
+
+.navbar{
+    align-items:center;
+}
+
+.block-one{
+    background-image:url("Assets/ImageBackground1.jpg");
+    padding:none;
+    margin: none;
+}
+
+.block-two{
+    background-image:url("Assets/BlockTwoBg.jpg");
+}
+
+.block-two-desc{
+    color: grey;
+}
+
+.H1-color{
+    color:grey;
+}
+.block-4{
+    background-image:url("Assets/blockFourImage.jpg");
+    float: left;
+}
+
+.list-footer{
+    text-align:left;
+}
+
+.d-block{
+    text-align: right;
+}
+
+.list-unstyled{
+    text-align: left;
+    padding: 5px;
+    margin:0px;
+}
+
+@media screen and (min-width: 480px) {
+
+    form {
+      max-width: auto;
+    }
+  
+  }
+
+  .container-5{
+      background-color: darkgrey;
+
+  }
+
+  .footer{
+      background-color: darkgrey;
+  }
+
+  #footer p {
+    text-align: left;
+    font: italic;
+  }
+
+  #footer {
+    border-top: 2px solid grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color:darkgrey;
+    padding: 10px;
+  }
+  
+  #footer ul {
+    margin: 15px 0 10px 0;
+    text-align: left;
+  }
+  
+  #footer li {
+    display: inline;
+    list-style-type: none;
+  }
+  
+  #footer li a {
+    color: #343434;
+    text-decoration: none;
+    margin: 0 5px
+  }
+  
+  #footer li a:visited {
+    text-decoration: none
+  }
+  
+  #footer li a:hover {
+    text-decoration: underline
+}
